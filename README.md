@@ -18,7 +18,7 @@ React 상태관리 라이브러리를 사용하지 않고, 다른 색깔 찾기 
 <br>
 
 - [X] React, Typescript 사용
-- [ ] Function Component 활용
+- [X] Function Component 활용
 - [ ] 서버 배포 (Vercel 등)
 - [ ] Context, Redux, Mobx, Recoil 등 상태관리 도구 사용 X
       <br>
@@ -31,7 +31,7 @@ React 상태관리 라이브러리를 사용하지 않고, 다른 색깔 찾기 
 <br>
 
 - [X] **Math.pow(Math.round((stage + 0.5) / 2) + 1, 2)** 개의 사각형 표시
-- [ ] 전체 사각형 중 하나만 다른 색 적용
+- [X] 전체 사각형 중 하나만 다른 색 적용
 - [ ] 한 stage의 제한 시간은 15초
 <br>
 <br>
