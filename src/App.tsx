@@ -1,7 +1,8 @@
 import React from 'react';
+import MakeSquare from './components/MakeSquare';
 
 function App() {
-  return <div className="App" />;
+  return <MakeSquare />;
 }
 
 export default App;
